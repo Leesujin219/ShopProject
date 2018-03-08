@@ -1,0 +1,55 @@
+@charset "EUC-KR";
+<style>
+	body{
+		font-family: 'Nanum Gothic Coding', monospace;	
+	}
+	a.lgmenu:link{
+		text-decoration:none;
+	}
+	a.lgmenu:visited{
+		text-decoration:none;
+	}
+	a.lgmenu:active{
+		color: orange;
+		text_decoration:none;
+	}
+	a.lgmenu:hover{
+		color: orange;
+		text_decoration:none;
+	}
+	.w3-logofont{
+		font-family: 'Slabo 27px', serif;
+	}
+	.mainLine{
+		padding-left:15%;
+		padding-right:15%;
+	}
+ 	.login{
+		border: solid black 1px;
+		margin:auto;
+		width:100px;
+		margin-bottom:40px;
+	}
+	.lgform{
+		color:gray;
+		padding-left:10px;
+	}
+	.jointable{
+		width:500px;
+		margin:auto;
+	}
+	.jointablesize{
+		height:50px;
+	}
+	.vertmenu{
+		float:left;
+		padding-left:20%;
+	}
+	.mpedit{
+		margin:auto;
+		width:600px;
+	
+	}
+	
+	
+</style>
